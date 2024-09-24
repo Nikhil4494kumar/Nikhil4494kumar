@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot....)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pYcuzW6WG2zSdqJB1qutbLF60iPQD5fyxA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Nikhil kumar</h1>
 <h3 align="center">I am not a developer 😄</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.c...">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/51fb0e6ee4b0dfbd7918866c/1443748012334-9XOFTX5DC3U38LZ7QB2S/?content-type=image%2Fgif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil4494kumar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil4494kumar" /> </p>
 
